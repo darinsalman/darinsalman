@@ -1,0 +1,149 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: o;
+}
+
+#top{
+    background-color: #EAF6F6;
+    width: 100%;
+    position: relative;
+    padding-top: 10%;
+}
+
+.cloud{
+    position:absolute;
+    right: 25%;
+}
+
+.cloud2{
+    position:absolute;
+    left: 25%;
+}
+
+.darin{
+    border-radius: 50%;
+    width: 15%;
+    height: 15%;
+}
+
+h1, h2{
+    color: #66bfbf;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, pre{
+    font-family: 'Merriweather', serif;
+    text-align: justify, center;
+}
+
+h3{
+    color: #11999E;
+    text-align: center;
+}
+
+.para{
+    font-size: 300%;
+    color: #eaf6f6;
+}
+
+.img{
+    width: 10%;
+    height: 10%;
+    border-radius: 75%;
+}
+
+.div{
+    width: 25%;
+    text-align: center;
+}
+
+form{
+    color: white;
+    border-radius: 15%;
+}
+
+li{
+    display: inline;
+    margin: 0.5cm;
+    text-decoration: none;
+}
+
+footer{
+    width: 100%;
+    background-color: #66BFBF;
+}
+
+a{
+    text-decoration: none;
+    color: #11999E;
+}
+
+.p{
+    color: #EAF6F6;
+}
+
+a:hover{
+    opacity: 0.5;
+}
+
+form:hover{
+    opacity: 0.5;
+}
+
+#margin{
+    margin-bottom: 4%;
+}
+
+#h{
+    position: relative;
+    right: 5%;
+}
+
+#h3{
+    position: relative;
+    left: 5%;
+}
+.position{
+    text-align: justify;
+    position: relative;
+    left: 31%;
+}
+#float{
+    float: left;
+    position: relative;
+    left: 30%;
+}
+
+#float2{
+    float: right;
+    position: relative;
+    right: 26%;
+}
+
+#color{
+    color: #11999e;
+}
+
+#size{
+    font-size: 500%;
+}
+
+#size2{
+    font-size: 200%;
+}
+
+#u{
+    text-decoration: underline;
+}
+
+#heart{
+    color: red;
+}
